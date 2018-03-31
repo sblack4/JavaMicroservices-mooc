@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeeRESTApp
+Implementation-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: mw119255
+Implementation-Vendor-Id: com.example.rest
+Spring-Boot-Version: 1.4.0.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.example.rest.App
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/EmployeeREST
+ App/
+
